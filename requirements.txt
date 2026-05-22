@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+opencv-python-headless
+numpy
+pytesseract
+pdf2image
+langchain-community
+langchain-text-splitters
+pypdf
+chromadb
+sentence-transformers
+langchain-groq
+python-dotenv
+python-multipart
